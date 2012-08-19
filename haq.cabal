@@ -1,0 +1,12 @@
+Name:              haq
+Version:           0.0
+Description:       Project Euler Solutions
+License:           GPL
+Author:            Aaron Peschel
+Build-Type:        Simple
+Cabal-Version:     >=1.2
+
+Executable p1
+  Build-depends:   base
+  Main-is:         Haq.hs
+  hs-source-dirs:  p1
