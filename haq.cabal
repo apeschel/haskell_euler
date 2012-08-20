@@ -10,3 +10,8 @@ Executable p1
   Build-depends:   base
   Main-is:         Haq.hs
   hs-source-dirs:  p1
+
+Executable p2
+  Build-depends:   base
+  Main-is:         Haq.hs
+  hs-source-dirs:  p2
