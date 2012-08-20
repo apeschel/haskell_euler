@@ -1,7 +1,7 @@
 Name:              haq
 Version:           0.0
 Description:       Project Euler Solutions
-License:           Simplified BSD
+License:           BSD3
 Author:            Aaron Peschel
 Build-Type:        Simple
 Cabal-Version:     >=1.2
